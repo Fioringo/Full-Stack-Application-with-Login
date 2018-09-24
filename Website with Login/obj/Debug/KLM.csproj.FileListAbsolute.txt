@@ -1,6 +1,0 @@
-/Users/andrey/Projects/KLM/KLM/bin/KLM.dll
-/Users/andrey/Projects/KLM/KLM/bin/KLM.pdb
-/Users/andrey/Projects/KLM/KLM/obj/Debug/KLM.csproj.CoreCompileInputs.cache
-/Users/andrey/Projects/KLM/KLM/obj/Debug/KLM.dll
-/Users/andrey/Projects/KLM/KLM/obj/Debug/KLM.pdb
-/Users/andrey/Projects/KLM/KLM/obj/Debug/KLM.csprojAssemblyReference.cache
